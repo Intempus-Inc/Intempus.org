@@ -80,7 +80,7 @@ template: comments.html
 <div style="max-width: 615px; margin-left: 15px;">
 
  <p>
-  Intempus is equipping agents with an understanding of time and space, so the autonomous machines of the future may "think" like a human can.
+  Intempus is equipping agents with an understanding of time and space, so the autonomous machines of the future may "feel" like a human can.
  </p>
 
   <p>
@@ -88,16 +88,15 @@ template: comments.html
  </p>
 
  <ul style="list-style-type: '- '; margin-left: -0.25em; margin-top: -0.25em;">
-    <li style="margin-bottom: 0.25em;">Hardware Engineering Lead</li>
-    <li style="margin-bottom: 0.25em;">Senior ML Researcher</li>
+    <li style="margin-bottom: 0.25em;">Senior Research Scientist</li>
+    <li style="margin-bottom: 0.25em;">Machine Learning Engineer</li>
+    <li style="margin-bottom: 0.25em;">Robotics Engineer</li>
+    <li style="margin-bottom: 0.25em;">Firmware Engineer</li>
+    <li style="margin-bottom: 0.25em;">Research and Devolopment Intern</li>
 </ul>
 
  <p>
-  If you're interested in working on the future of autonomous <br>machines, contact us at <a target="_blank" href="mailto:teddy@intempus.org" style="color: inherit; text-decoration: underline;">teddy@intempus.org</a>. 
- </p>
-
- <p>
-  Follow along on our 𝕏/Twitter <a target="_blank" href="https://x.com/IntempusInc" style="color: inherit; text-decoration: underline;">@IntempusInc</a>.
+  If you're interested in building the next generation of autonomous <br>machines, contact us at <a target="_blank" href="mailto:teddy@intempus.org" style="color: inherit; text-decoration: underline;">teddy@intempus.org</a>. 
  </p>
 
 </div>

@@ -79,7 +79,7 @@ template: comments.html
 <div style="max-width: 615px; margin-left: 15px;">
 
  <p>
-  Intempus is equipping agents with an understanding of time and space so that the autonomous machines of the future may "think" like humans.
+  Intempus equips autonomous machines with human-like emotions, making them less uncanny, more predictable, and fundamentally safer.
  </p>
 
  <p>
@@ -87,7 +87,7 @@ template: comments.html
  </p>
 
  <p>
-  Our work is still in its initial stages with more information soon! Check out our <a href="/research" style="color: inherit; text-decoration: underline;">research</a> page for current progress. If you are interested in working with us, please reach out to <a target="_blank" href="mailto:teddy@intempus.org" style="color: inherit; text-decoration: underline;">teddy@intempus.org</a>.
+  Check out our <a href="/research" style="color: inherit; text-decoration: underline;">research</a> page for more on what we're up to. If you are interested in working with us, please reach out to <a target="_blank" href="mailto:teddy@intempus.org" style="color: inherit; text-decoration: underline;">teddy@intempus.org</a>.
  </p>
 
  <p>
