@@ -89,10 +89,8 @@ template: comments.html
 
  <ul style="list-style-type: '- '; margin-left: -0.25em; margin-top: -0.25em;">
     <li style="margin-bottom: 0.25em;">Senior Research Scientist</li>
-    <li style="margin-bottom: 0.25em;">Machine Learning Engineer</li>
+    <li style="margin-bottom: 0.25em;">Machine Learning Lead</li>
     <li style="margin-bottom: 0.25em;">Robotics Engineer</li>
-    <li style="margin-bottom: 0.25em;">Firmware Engineer</li>
-    <li style="margin-bottom: 0.25em;">Research and Devolopment Intern</li>
 </ul>
 
  <p>
