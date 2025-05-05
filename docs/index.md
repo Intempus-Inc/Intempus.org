@@ -79,7 +79,7 @@ template: comments.html
 <div style="max-width: 615px; margin-left: 15px;">
 
  <p>
-  Intempus equips autonomous machines with human-like emotions, making them less uncanny, more predictable, and fundamentally safer.
+  Intempus equips robots with human-like emotions, making them making them more predictable, easier to debug, and fundamentally safer.
  </p>
 
  <p>
