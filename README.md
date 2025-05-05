@@ -3,5 +3,5 @@ Intempus
 </h1>
 
 <p align="center">
-<em>Emotionally Intellegent Robots.</em>
+<em>Emotionally Intelligent Robots.</em>
 </p>

@@ -1,5 +1,5 @@
 ---
-description: Giving agents a temporal understanding through human physiological data.
+description: Emotionally Intelligent Robots.
 hide:
   - navigation
   - tags
