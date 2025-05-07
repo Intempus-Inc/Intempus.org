@@ -95,6 +95,11 @@ template: comments.html
 
 ## Introduction
 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+  <div></div>
+  <p style="margin: 0; font-family: 'JetBrains Mono'; font-size: 0.9em; opacity: 0.7; margin-top: -5em;"><a class="navItem" href="../assets/misc/IntempusWhitepaper.pdf" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">View PDF</a></p>
+</div>
+
 There's a concept in AI research called the World Model, which aims to create neural networks capable of understanding and simulating cause and effect within a temporal and spatial context. Unlike current Large Language Models (LLMs) that primarily predict outputs based on input patterns, world models aspire to simulate both causes and effects based on a deeper understanding of time and space.
 
 The key to a world model is its ability to grasp cause and effect, which fundamentally requires a temporal understanding. As it turns out, giving a neural network a temporal understanding is quite challenging. While we can instruct an LLM to output current timestamps or locations, it lacks the ability to truly associate actions and experiences within a relative dimension of time and space as humans do.
